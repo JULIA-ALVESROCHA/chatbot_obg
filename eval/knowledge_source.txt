@@ -1,0 +1,344 @@
+=== FONTE OFICIAL OBG - CORPUS DE CONHECIMENTO (FactScore / verificacao de suporte) ===
+Edicao de referencia: 11a Olimpiada Brasileira de Geografia (OBG) 2026.
+Fonte: Regulamento da Fase Nacional da 11a OBG 2026 (documento unico fornecido).
+Onde houver conflito de redacao, prevalece o texto do regulamento; o Calendario oficial
+esta no item 8 do regulamento. Horario-padrao: horario de Brasilia.
+OBS: esta edicao do corpus foi construida APENAS a partir do Regulamento 11a OBG 2026. Topicos
+que, na edicao 2025, vinham de documentos auxiliares (Duvidas e Suporte de Acesso, Orientacoes de
+Senhas, Diretrizes de Elaboracao de Questoes, Anexo 2 de Temas/ODS) nao constam neste regulamento
+e foram omitidos por nao haver suporte textual na fonte 2026.
+
+[ESTRUTURA GERAL]
+A 11a OBG 2026 e composta por 3 (tres) fases online classificatorias, 1 (uma) Fase Final Presencial
+e 1 fase internacional (iGeo). A apresentacao do regulamento descreve as fases online "em nivel
+estadual", enquanto o item 4.1 cita "nivel nacional"; em ambos os casos a selecao e a classificacao
+para a Presencial sao apuradas por estado. A Comissao Organizadora incentiva a participacao feminina
+e de estudantes de grupos e comunidades historicamente sub-representados (povos tradicionais e
+populacoes diversas), promovendo equidade, inclusao e diversidade. O horario-padrao e o de Brasilia.
+
+[PARTICIPANTES E SERIES PERMITIDAS]
+Podem participar estudantes regularmente matriculados em escolas publicas e/ou particulares do
+Brasil, do 9o ano do Ensino Fundamental ate o 3o (e 4o, se houver) ano do Ensino Medio, formando
+equipes de 3 estudantes orientadas por um(a) professor(a), responsavel pela inscricao. Sao
+permitidos ensino regular, profissionalizante, supletivo e EJA, sempre nas series permitidas ou
+equivalentes. Em nenhuma hipotese podem participar estudantes que ja finalizaram o Ensino Medio,
+mesmo que inscritos em cursinhos pre-universitarios, nem estudantes do Ensino Superior. Estudantes
+de cursos preparatorios para vestibular ou instituicoes de apoio (privadas, estatais ou
+filantropicas) so participam se tambem forem estudantes regulares do Ensino Medio e inscritos pela
+instituicao de ensino regular em que cursam. Se, no momento das provas (online ou presencial), um
+estudante nao estiver mais vinculado ao ensino regular, ele devera ser substituido.
+
+[COMPOSICAO DA EQUIPE]
+As equipes sao formadas por 3 estudantes e 1 professor(a) orientador(a); o professor e o responsavel
+pela inscricao. O(a) mesmo(a) professor(a) pode orientar mais de uma equipe, mas um(a) aluno(a) nao
+pode participar de mais de uma equipe. Os estudantes devem pertencer a mesma escola em que estao
+matriculados, ainda que de salas ou series diferentes, desde que nas series permitidas. Nao sao
+permitidas equipes com estudantes de escolas diferentes, ainda que da mesma rede de ensino ou
+mantenedora. Se o estudante cursa em mais de uma escola, deve escolher por qual participara. Se
+um(a) ou mais estudantes participarem de mais de uma equipe ao mesmo tempo, as equipes envolvidas
+serao sumariamente desclassificadas. A composicao da equipe e decidida pelo professor orientador
+e/ou responsavel, observado o regulamento.
+
+[PROFESSOR ORIENTADOR]
+O(a) professor(a) orientador(a) e o(a) responsavel pela equipe, incluindo inscricao, insercao e
+atualizacao de dados no sistema e acompanhamento das fases, e deve integrar o corpo docente da
+escola. Excepcionalmente, a funcao pode ser exercida por outro membro da instituicao escolar
+(secretaria, coordenacao pedagogica, coordenacao de olimpiadas, estagiarios, plantonistas ou outros
+profissionais), desde que formalmente vinculados a escola, dando-se preferencia a equipe pedagogica.
+Somente o(a) professor(a) orientador(a) pode alterar a composicao da equipe. Se for constatada
+inscricao ou participacao de membros nao elegiveis, a Comissao pode desclassificar a equipe e/ou
+todas as equipes da instituicao; comprovado dolo, ma-fe ou falsidade ideologica, professor,
+estudantes e/ou instituicao podem ter vetada a participacao presente e futura.
+
+[LIMITE DE EQUIPES POR ESCOLA / PROFESSOR]
+Nao ha restricao quanto ao numero de equipes que uma escola pode inscrever nem quanto ao numero de
+equipes que um(a) professor(a) pode orientar. Recomenda-se, porem, inscrever apenas a quantidade de
+equipes que o(a) professor(a) consiga acompanhar e gerenciar adequadamente ao longo das fases.
+
+[VEDACOES A ELABORADORES E PARENTES]
+E proibida a participacao, nas provas da OBG, de docentes e funcionarios diretamente ligados a
+elaboracao dos conteudos da OBG e tambem de seus parentes de primeiro grau. E vetada a orientacao de
+equipes aos elaboradores de conteudos, bem como a qualquer pessoa que tenha contato com a prova
+durante sua elaboracao (validadores, revisores, diagramadores).
+
+[SUBSTITUICAO DE MEMBROS DA EQUIPE]
+O professor coordenador pode substituir ou alterar os dados de qualquer membro da equipe, desde que
+antes do inicio da primeira fase online. Apos isso, o sistema fica disponivel apenas para exclusao do
+estudante, procedimento feito exclusivamente pelo professor coordenador. Somente o(a) professor(a)
+orientador(a) pode alterar a composicao da equipe.
+
+[SUBSTITUICAO DO PROFESSOR RESPONSAVEL]
+Em caso de desligamento do(a) professor(a) do quadro docente, ou por decisao da escola, a direcao
+e/ou coordenacao pedagogica deve solicitar a substituicao por um(a) novo(a) responsavel. A
+solicitacao deve ser encaminhada por e-mail institucional, contendo os dados do(a) novo(a)
+responsavel: nome completo, CPF, e-mail, genero, cor ou raca, pertencimento a categorias especificas
+e telefone celular com WhatsApp. Apos o cadastro, o(a) novo(a) responsavel assume integralmente a
+responsabilidade pelas equipes vinculadas ao responsavel anterior.
+
+[EQUIPES NA FASE PRESENCIAL - MINIMO DE MEMBROS]
+As equipes classificadas para a Fase Presencial em nivel nacional nao podem substituir membros e nao
+podem participar com menos de dois membros. Caso a equipe classificada nao atinja o minimo exigido, a
+organizacao da OBG convidara para substituicao a equipe que ficou na classificacao subsequente na
+mesma categoria.
+
+[CONFIRMACAO DE PARTICIPACAO NA PRESENCIAL]
+A escola selecionada para a Fase Presencial tera ate 30 dias para confirmar sua participacao ou
+comunicar a desistencia. Em caso de desistencia, a Comissao convidara a equipe classificada
+imediatamente apos, na mesma categoria. A cidade e o local da Fase Final Presencial sao informados as
+equipes no momento da divulgacao das selecionadas, a criterio da organizacao. Todos os custos da
+participacao presencial, incluindo eventual inscricao adicional, sao de responsabilidade das equipes.
+
+[NOME DA EQUIPE]
+As equipes devem criar um nome para si, que as acompanhara em todo o processo, do inicio a premiacao,
+e por isso deve ser escolhido com criterio. Salvo nos casos previstos no regulamento, os nomes nao
+serao alterados; por isso, ao se inscrever, a equipe deve conferir se o nome cumpre as exigencias e
+esta escrito corretamente. Termo pejorativo ou de baixo calao no lugar do nome leva a desclassificacao
+do estudante e exclusao do nome do certificado da equipe.
+
+[NOME SOCIAL]
+Em cumprimento ao Decreto no 8.727/2016, e garantido o uso do nome social durante toda a realizacao
+da prova; ao cadastrar ou atualizar dados, o(a) participante pode registrar seu nome social na equipe
+e no certificado, caso prefira.
+
+[DADOS DA EQUIPE E CONFERENCIA PARA CERTIFICADOS]
+Ao se inscrever, o responsavel visualiza todos os dados lancados, usados na confeccao dos
+certificados, e deve conferir e garantir a precisao (nomes dos participantes e da escola),
+atualizando quando necessario. E obrigatorio verificar a grafia (primeira letra maiuscula, sem
+abreviacoes, sem supressao de nomes intermediarios, sem apelidos). A Comissao nao altera o sistema
+para corrigir certificados e nao corrige certificados emitidos na fase final.
+
+[INSCRICOES]
+As inscricoes sao feitas exclusivamente online; sob nenhuma hipotese por e-mail, correspondencia ou
+outro meio. Para equipes pagantes, o pagamento e feito exclusivamente por boletos emitidos no sistema.
+O professor coordenador deve ser o unico usuario com acesso ao sistema de inscricao e edicao dos dados
+da equipe. O professor cadastra a escola pelo numero INEP e depois forma as equipes incluindo CPFs de
+estudantes ja cadastrados (para inscrever equipes de mais de uma escola, cadastra primeiro todas as
+escolas). Cada estudante deve se cadastrar antes, informando obrigatoriamente um e-mail (usado para
+confirmacao de cadastro e recuperacao de senha). Cada estudante tem acesso individual para editar seus
+dados e para realizar as provas.
+
+[CADASTRO DA ESCOLA / INEP / CNPJ]
+Para a inscricao da escola, e necessario o codigo de matricula no MEC, consultado no Catalogo de
+Escolas do INEP. As escolas sao classificadas automaticamente como Publicas ou Particulares com base no
+INEP. O professor deve atualizar dados como e-mail institucional da escola, nome do diretor(a) ou da
+coordenacao pedagogica, e o CNPJ (escolas particulares) ou a Inscricao Estadual da Secretaria de
+Educacao (escolas publicas sem CNPJ). Em caso de erros ou inexistencia da escola na base, o responsavel
+deve solicitar a correcao pela equipe da OBG via ambiente "Fale Conosco", conferindo nome, cidade,
+estado e endereco da escola (ha instituicoes com nomes similares).
+
+[TIPOS DE ESCOLA (FASE PRESENCIAL)]
+O professor deve selecionar o tipo de escola para a classificacao na Fase Presencial, em uma destas
+categorias: Escolas Particulares; Escolas Publicas com Acesso Seletivo (tecnicas/profissionalizantes,
+escolas/colegios militares, colegios de aplicacao vinculados a universidades publicas); ou Escolas
+Publicas de Ensino Regular.
+
+[DADOS OBRIGATORIOS DO ESTUDANTE]
+No cadastro e/ou confirmacao de inscricao, o estudante deve incluir obrigatoriamente: CPF; e-mail;
+nome completo; celular WhatsApp; nome social (se houver); data de nascimento; genero; cor ou raca;
+pertencimento a categorias (indigenas, comunidade ribeirinha, populacao negra, quilombolas, pessoa
+com deficiencia, outras comunidades tradicionais ou nenhuma); nome completo da mae; e NIS (se houver).
+
+[CADASTRO NAO E INSCRICAO / PAGAMENTO / DEVOLUCAO]
+O simples cadastro no site nao configura inscricao, e a mera confirmacao de membros em uma equipe
+tambem nao. A confirmacao de inscricao se da apenas pela confirmacao do pagamento, se houver, que pode
+ocorrer em ate 3 dias uteis apos o pagamento, respeitados os prazos do cronograma. Em hipotese alguma
+ha devolucao de valores de inscricoes pagas, mesmo havendo impedimentos, duplicidade de pagamento ou
+nao participacao da equipe.
+
+[LOGIN E SENHAS]
+Cada estudante e o professor usam o CPF como login e escolhem uma senha; e responsabilidade do
+participante lembrar login e senha. O acesso do professor serve para cadastrar escolas e equipes e
+fazer edicoes; o acesso as provas e individual, feito pelos estudantes com login e senha. No caso de
+perda ou esquecimento, pode-se solicitar nova senha pelo proprio sistema, que envia automaticamente um
+link ao e-mail cadastrado; a senha anterior fica invalidada. Cada nova solicitacao gera um novo link e
+invalida o pedido anterior, por isso recomenda-se aguardar a chegada do e-mail por no minimo meia hora
+(30 minutos). A equipe de apoio da OBG nao tem acesso as senhas nem as areas de usuario e nao pode
+recupera-las; a Comissao tambem nao interfere na prova nem devolve, refaz ou cancela respostas ja
+enviadas e confirmadas.
+
+[LIMITE DE PARTICIPANTES]
+Como qualquer programa baseado em internet, a 11a OBG 2026 possui restricoes quanto ao numero final de
+participantes. A OBG reserva-se o direito de encerrar os prazos de inscricao antecipadamente caso atinja
+esse limite, respeitada a ordem de inscricao, visando reduzir intercorrencias tecnicas.
+
+[FASES E ESTRUTURA DAS PROVAS]
+A OBG e constituida por 3 fases online classificatorias e 1 Fase Final Presencial. As equipes inscritas
+participam das tres primeiras fases; a Presencial e somente para tres equipes por estado. As provas das
+fases online terao numero igual ou superior a esta estrutura minima: Fase 1 com 25 questoes de multipla
+escolha; Fase 2 com 25 questoes de multipla escolha; Fase 3 com 15 questoes de multipla escolha. As
+questoes podem ser tematicas, e cada fase pode apresentar versoes distintas da mesma avaliacao ou provas
+diferentes para equipes de uma mesma escola, com distribuicao aleatoria informada no acesso. A quarta
+fase (final presencial) e composta de atividades teoricas e praticas, indicadas em regulamento especifico,
+e participam apenas as equipes classificadas por estado.
+
+[ACESSO AS FASES ONLINE]
+As fases online sao acessadas, realizadas e enviadas exclusivamente pelos(as) estudantes das equipes. O
+professor orientador tem acesso apenas para visualizacao, pela pagina oficial, com login e senha. Embora
+todos os estudantes da equipe tenham acesso, recomenda-se que apenas um integrante seja responsavel pelo
+preenchimento e envio das respostas dentro do prazo. Todo acesso individual a prova e registrado; a
+responsabilidade pelos procedimentos de resposta e da equipe, independentemente de qual estudante alterou.
+A equipe de TI mantem logs de acesso e edicao para assegurar transparencia, rastreabilidade e lisura.
+
+[ENVIO DE RESPOSTAS]
+Todas as respostas sao feitas unica e exclusivamente pelo sistema da OBG; nunca por e-mail, correio ou
+outro meio. As provas enviadas nao podem ser alteradas posteriormente, mas, durante o periodo da fase e a
+criterio da equipe, a prova pode ser reaberta e o envio cancelado e/ou substituido por um novo. O sistema
+salva automaticamente as respostas em modo rascunho; apos o envio definitivo, a prova nao pode ser
+alterada (podendo apenas ser reaberta dentro do prazo da fase). O acesso simultaneo de varios membros a
+mesma questao pode causar divergencias nos dados salvos. Fechada a fase, nao se aceitam respostas.
+
+[ACESSO SIMULTANEO]
+Recomenda-se que apenas um integrante preencha e envie as respostas. A OBG nao se responsabiliza por erros
+de envio gerados por logins multiplos e simultaneos da mesma equipe, nem por uso indevido da plataforma,
+nem por edicao em acesso simultaneo na mesma questao.
+
+[DEBATE ENTRE EQUIPES]
+As discussoes sobre as provas devem se restringir ao debate entre os membros da propria equipe. Nao e
+permitido o debate coletivo entre equipes diferentes, o compartilhamento de questoes ou respostas, nem a
+resolucao fragmentada das provas entre equipes da mesma escola ou por redes/grupos de discussao online.
+Cada prova deve ser integralmente resolvida pela respectiva equipe.
+
+[NAO PARTICIPACAO EM UMA FASE / ELIMINACAO]
+Ao deixar uma fase inteira em branco ou nao acessar a prova (nenhum membro acessa aquela fase), a equipe e
+automaticamente eliminada, nao tendo direito a certificados de participacao nem concorrendo a medalhas,
+independentemente da pontuacao. E preciso ficar atento aos prazos e efetivamente enviar as respostas.
+
+[GABARITO E CONTEUDO]
+O gabarito oficial e publicado somente apos o final da terceira fase online. A Comissao nao fornece
+explicacoes sobre o conteudo das questoes apos a finalizacao de cada fase, mesmo apos o termino de todas
+as provas; espera-se que duvidas de conteudo sejam debatidas na relacao aluno-professor.
+
+[USO DE IA GENERATIVA E CONSULTA]
+O ambiente da prova pode fornecer documentos, textos, links e sugestoes de leitura. As equipes podem
+consultar outros materiais e fontes (livros, sites, professores etc.). A OBG recomenda evitar o uso de IAs
+generativas, devido a possiveis imprecisoes e ao risco de dependencia excessiva, que pode comprometer o
+raciocinio e a analise critica dos estudantes, alem de contrariar os principios eticos da OBG. O nivel das
+questoes e intermediario e avancado, devido ao formato de pesquisa e consulta, seguindo as diretrizes
+curriculares nacionais, ainda que admita estudantes do 9o ano do EF II ate o Ensino Medio.
+
+[NAVEGADORES SUPORTADOS]
+A Comissao garante o funcionamento do sistema para as versoes mais recentes do Firefox e do Google Chrome.
+O uso de versoes antigas, de outros navegadores, ou de versoes para tablet ou celular nao e recomendado, e a
+Comissao nao se responsabiliza pelo funcionamento nesses casos. A experiencia online pode variar conforme a
+velocidade de conexao e o equipamento. A Comissao responsabiliza-se apenas pelo site e sistema da OBG, nao
+por falhas no provedor ou nos equipamentos dos participantes.
+
+[FALHAS NO SISTEMA E PRAZOS]
+Em caso de falha no sistema da OBG, nos servidores no exterior ou falha ampla em nivel nacional, a Comissao
+pode prorrogar prazos de fases, em separado ou na totalidade, a seu criterio. Falhas pontuais/locais que
+atinjam apenas parte dos participantes nao sao consideradas. So falhas graves, de nivel nacional, que
+prejudiquem a grande maioria, podem gerar prorrogacao, apos deliberacao da Coordenacao. Cabe exclusivamente
+a Comissao avaliar a extensao das falhas. Fora dessas hipoteses, nao ha possibilidade de enviar respostas
+fora do prazo; recomenda-se nao deixar o envio para a ultima hora.
+
+[CLASSIFICACAO PARA A FASE PRESENCIAL]
+Os pontos totais das tres fases online sao computados para selecionar as equipes classificadas para a
+Presencial, com calculo automatico disponibilizado apos o periodo de recursos. A Fase Presencial e destinada
+a tres equipes por estado da federacao, incluindo o DF: uma de Escola Particular, uma de Escola Publica
+Regular e uma de Escola Publica com Acesso Seletivo. A selecao baseia-se nos criterios de desempate do item
+5.5. Os nomes das classificadas sao divulgados na data do calendario (item 8), sem horario definido.
+
+[PONTUACAO, RECONTAGEM E RANKING]
+Em caso de questoes anuladas, a respectiva pontuacao e considerada para todas as equipes participantes. Nao
+ha recontagem de pontos nem revisao de prova, e nao se divulgam pontuacoes por questao ou tarefa, nem as
+correcoes (de forma privada ou publica). Nao cabem recursos ao Resultado Final gerado pelo sistema. Em
+hipotese alguma a Comissao publica rankings gerais ou especificos.
+
+[CRITERIOS DE DESEMPATE]
+Em caso de empate de pontos apos as tres primeiras fases, aplicam-se, nesta ordem: 1) maior pontuacao na
+Fase 1; 2) se persistir, maior pontuacao na Fase 2; 3) se persistir, maior nota na Fase 3; 4) a criterio da
+Comissao, outros criterios podem ser acrescentados.
+
+[RECURSOS]
+Apos a finalizacao das fases online sao divulgados os gabaritos e abre-se prazo para recursos de revisao de
+questoes, conforme o calendario. Os recursos sao encaminhados exclusivamente pelo sistema, em ambiente
+proprio, pelo(a) professor(a) responsavel; os estudantes nao tem acesso ao envio de recursos. Solicitacoes
+por e-mail ou outro meio sao automaticamente desconsideradas. Os argumentos devem ser sucintos, objetivos e
+imparciais; como a Geografia tem multiplas concepcoes ideologicas e epistemologicas, argumentos dirigidos a
+essas questoes sao considerados improcedentes. Solicitacoes sem embasamento tecnico plausivel sao
+desconsideradas; so sao validos argumentos baseados em publicacoes cientificas com Conselho Editorial.
+
+[PREMIACAO E DISTRIBUICAO DE MEDALHAS]
+A OBG disponibiliza certificados de medalhas com base na classificacao por estado das tres primeiras fases e
+no resultado da Fase Final Presencial. A distribuicao das medalhas e proporcional ao numero total de equipes
+de cada estado: 10% de medalhas de ouro, 15% de prata e 25% de bronze, nao havendo pontuacao minima
+estabelecida; as equipes que se enquadrarem nesses percentuais, independentemente da pontuacao, recebem os
+certificados correspondentes. A divulgacao dos medalhistas e exclusivamente via sistema. Os certificados ficam
+disponiveis para download apenas pelo sistema, acessiveis pelos membros da equipe e pelo professor.
+
+[CERTIFICADOS]
+Todos os participantes que cumprirem os criterios (item 4.5) recebem certificado de participacao; ha tambem
+certificados digitais de medalhista (ouro, prata, bronze) por classificacao estadual referente as tres fases
+online. Os certificados sao digitais e assinados, acessados via sistema; a OBG nao emite certificados ou
+declaracoes em papel. O certificado de participacao das fases online fica disponivel por tempo indeterminado,
+mas a Comissao nao se responsabiliza por certificados nao impressos ate 31/12/2026 e nao emite segunda via. Os
+certificados sao emitidos com base nos dados da inscricao; dados incorretos nao serao corrigidos e nao ha nova
+emissao. Atualizacoes cadastrais apos o inicio da prova exigem sincronizacao entre o sistema de cadastro e o de
+prova, devendo ser solicitadas a equipe e podendo demorar ate 15 dias; por isso recomenda-se atualizar os dados
+antes do inicio da olimpiada.
+
+[CERTIFICADOS DE EDICOES ANTERIORES]
+A Comissao Organizadora nao emite, sob hipotese alguma, segunda via de certificados de edicoes anteriores. E
+imprescindivel imprimir os certificados ate 31/12/2026, pois nao se garante a permanencia online apos essa data.
+
+[MEDALHAS FISICAS]
+Nao sao enviadas medalhas fisicas. As escolas contempladas podem produzi-las por conta propria, arcando com os
+custos, com base em layout a ser disponibilizado no site oficial.
+
+[CONTATO OFICIAL]
+Todas as informacoes oficiais sao divulgadas unica e exclusivamente no site https://obgeografia.com.br. Duvidas
+sobre o regulamento podem ser acessadas pelo Chat do site; sugestoes, recursos ou outras duvidas devem ser
+enviadas exclusivamente pelo ambiente "Fale Conosco", informando um e-mail valido. A Comissao busca responder em
+ate 4 dias uteis. Nao ha atendimento por telefone, e-mail pessoal ou redes sociais pessoais; mensagens por esses
+meios sao ignoradas e nao levadas a deliberacao. A OBG mantem paginas no Facebook e Instagram apenas para
+interacao, mas as informacoes oficiais ficam no site. Contato abusivo, ofensivo, assediador, desrespeitoso ou
+ameacador pode levar a desclassificacao sumaria e, em casos extremos, a processos na forma da lei.
+
+[COMUNICADOS OFICIAIS E CASOS OMISSOS]
+A Comissao pode publicar a qualquer momento comunicados que alterem ou complementem o regulamento, inclusive
+datas e formatos das provas em casos de forca maior. Os "Comunicados Oficiais" publicados no site tem forca de
+regulamento a partir de sua publicacao, sendo responsabilidade dos participantes consulta-los. A Comissao tem a
+ultima palavra na interpretacao do regulamento e nos casos omissos.
+
+[CALENDARIO OFICIAL 11a OBG 2026]
+Periodo de Inscricoes: 06/04 a 16/06/2026.
+Valor da inscricao por equipe: Escolas Publicas - gratuita; Escolas Particulares - R$ 65,00.
+Prova Fase 1: 04/08 a 06/08/2026.
+Prova Fase 2: 11/08 a 13/08/2026.
+Prova Fase 3: 18/08 a 19/08/2026.
+Divulgacao dos Gabaritos: 20/08/2026.
+Interpelacao de Recursos: 20/08 a 21/08/2026.
+Divulgacao dos Resultados/Medalhistas por Estado/Equipes Classificadas para a Presencial: 01/09/2026.
+Fase Final Presencial: ultima semana de novembro de 2026 - local a definir.
+
+[SELECAO PARA A iGeo 2027]
+Os medalhistas da Fase Final Presencial podem participar do processo de selecao da Equipe Brasil para a edicao
+2027 da International Geography Olympiad (iGeo 2027), desde que cumpram os criterios de elegibilidade: estar
+regularmente matriculado na Educacao Basica em instituicao de ensino regular ate 30 de junho de 2027
+(independentemente de a instituicao ser outra a epoca da OBG 2027); e ter entre 16 e 19 anos em 30 de junho de
+2027. A selecao depende da fluencia em ingles e ocorre em duas etapas: a primeira durante a Fase Presencial,
+somente com os estudantes das equipes presentes, com atividades avaliativas em ingles abordando Geografia
+Humana, Fisica, Cartografia e Geotecnologias; a participacao no processo seletivo e individual e facultativa,
+nao por equipe. Havendo empate na primeira fase, decide o desempenho/pontuacao nas avaliacoes da presencial. A
+segunda etapa e uma entrevista com os selecionados, apos o inicio do semestre letivo de 2027. Sao selecionados
+4 estudantes, que passam por treinamento pre-evento de nivelamento e preparacao ao formato e conteudo da iGeo. A
+participacao nos eventos internacionais depende de recursos financeiros e das condicoes sanitarias internacionais.
+
+[PRIVACIDADE E CONSENTIMENTO]
+Ao se inscrever, os participantes concordam com as regras do regulamento e com a Politica de Privacidade da OBG.
+Havendo discordancia, recomenda-se nao efetuar cadastro, inscricao ou participar das acoes. Para aceitar a
+Politica e necessario ser maior de idade; sendo menor, e indispensavel acompanhamento de responsavel legal. O
+site pode ser acessado dentro e fora do Brasil, e os dados podem ser armazenados e processados em jurisdicoes com
+leis de privacidade diferentes das brasileiras. A OBG usa os dados para simplificar o acesso, fomentar a
+interatividade, aprimorar pesquisa e divulgacao, melhorar o site, desenvolver projetos, personalizar conteudo,
+elaborar estatisticas e oferecer atendimento. A OBG compromete-se a nao compartilhar informacoes pessoais, salvo
+autorizacao expressa ou hipoteses previstas (parceiros academicos/tecnicos/educacionais sob confidencialidade,
+transferencia de controle, processamento externo, motivos legais, agencias de fomento e pesquisa academica
+comprovada). Em solicitacao da imprensa, a Comissao nao fornece dados ou contato de alunos, buscando a
+autorizacao do professor para eventual contato.
+
+[DISPOSICOES GERAIS]
+Os participantes, ao se inscreverem, concordam com o regulamento. A logomarca do evento e patrimonio da OBG e so
+pode ser usada para fins comerciais com permissao dos organizadores. Utiliza-se o horario de Brasilia como
+horario-padrao. A Comissao nao se responsabiliza por problemas decorrentes da falta de leitura do regulamento, das
+"Orientacoes Fase Final Presencial" e/ou dos "Comunicados Oficiais".
